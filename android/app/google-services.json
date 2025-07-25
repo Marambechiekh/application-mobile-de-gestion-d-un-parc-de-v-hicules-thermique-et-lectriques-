@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270398190884",
+    "project_id": "gestionp-44008",
+    "storage_bucket": "gestionp-44008.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270398190884:android:d9061297d200f5f5abafb1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2e6MxgApDoG39PsLPuUw2Sm2W42raWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
